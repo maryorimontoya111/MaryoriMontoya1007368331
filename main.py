@@ -1,5 +1,5 @@
 def main():
-    print("Hola mundo, este mensaje es para el profe de Aplicación y Servicios Web")
+    print("Hola mundo, este mensaje es para el profe de Aplicación y Servicios Web, gracias por sus enseñanzas")
  
 if __name__ == "__main__":
     main()
